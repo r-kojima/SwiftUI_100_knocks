@@ -15,6 +15,7 @@
 		BF6983FC253ACFFA008D967C /* SwiftUI_100_knocksUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF6983FB253ACFFA008D967C /* SwiftUI_100_knocksUITests.swift */; };
 		BF69841A253AD17E008D967C /* panda.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BF698419253AD17E008D967C /* panda.jpg */; };
 		BF69842D253ADA67008D967C /* Images.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF69842C253ADA67008D967C /* Images.swift */; };
+		BF698438253ADDEE008D967C /* NavigationViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF698437253ADDEE008D967C /* NavigationViews.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		BF6983FD253ACFFA008D967C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BF698419253AD17E008D967C /* panda.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = panda.jpg; path = Assets.xcassets/panda.imageset/panda.jpg; sourceTree = "<group>"; };
 		BF69842C253ADA67008D967C /* Images.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Images.swift; sourceTree = "<group>"; };
+		BF698437253ADDEE008D967C /* NavigationViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViews.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 			children = (
 				BF6983DE253ACFF6008D967C /* SwiftUI_100_knocksApp.swift */,
 				BF69842C253ADA67008D967C /* Images.swift */,
+				BF698437253ADDEE008D967C /* NavigationViews.swift */,
 				BF6983E0253ACFF6008D967C /* ContentView.swift */,
 				BF6983E2253ACFF9008D967C /* Assets.xcassets */,
 				BF698419253AD17E008D967C /* panda.jpg */,
@@ -268,6 +271,7 @@
 			files = (
 				BF6983E1253ACFF6008D967C /* ContentView.swift in Sources */,
 				BF69842D253ADA67008D967C /* Images.swift in Sources */,
+				BF698438253ADDEE008D967C /* NavigationViews.swift in Sources */,
 				BF6983DF253ACFF6008D967C /* SwiftUI_100_knocksApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
