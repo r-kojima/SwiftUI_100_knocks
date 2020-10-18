@@ -2,7 +2,7 @@
 //  PickerViews.swift
 //  SwiftUI_100_knocks
 //
-//  Created by 小嶌諒 on 2020/10/18.
+//  Created by r-kojima on 2020/10/18.
 //
 
 import SwiftUI

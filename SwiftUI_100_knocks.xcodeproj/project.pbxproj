@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		BF5FC145253BDA1600AEE17B /* PickerViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF5FC144253BDA1600AEE17B /* PickerViews.swift */; };
 		BF5FC14D253BE64F00AEE17B /* TabViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF5FC14C253BE64F00AEE17B /* TabViews.swift */; };
+		BF5FC152253BF2FB00AEE17B /* ButtonKnock.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF5FC151253BF2FB00AEE17B /* ButtonKnock.swift */; };
 		BF6983DF253ACFF6008D967C /* SwiftUI_100_knocksApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF6983DE253ACFF6008D967C /* SwiftUI_100_knocksApp.swift */; };
 		BF6983E1253ACFF6008D967C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF6983E0253ACFF6008D967C /* ContentView.swift */; };
 		BF6983E3253ACFF9008D967C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BF6983E2253ACFF9008D967C /* Assets.xcassets */; };
@@ -40,6 +41,7 @@
 /* Begin PBXFileReference section */
 		BF5FC144253BDA1600AEE17B /* PickerViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PickerViews.swift; sourceTree = "<group>"; };
 		BF5FC14C253BE64F00AEE17B /* TabViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViews.swift; sourceTree = "<group>"; };
+		BF5FC151253BF2FB00AEE17B /* ButtonKnock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonKnock.swift; sourceTree = "<group>"; };
 		BF6983DB253ACFF6008D967C /* SwiftUI_100_knocks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUI_100_knocks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BF6983DE253ACFF6008D967C /* SwiftUI_100_knocksApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_100_knocksApp.swift; sourceTree = "<group>"; };
 		BF6983E0253ACFF6008D967C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -111,6 +113,7 @@
 				BF6983E0253ACFF6008D967C /* ContentView.swift */,
 				BF5FC144253BDA1600AEE17B /* PickerViews.swift */,
 				BF5FC14C253BE64F00AEE17B /* TabViews.swift */,
+				BF5FC151253BF2FB00AEE17B /* ButtonKnock.swift */,
 				BF6983E2253ACFF9008D967C /* Assets.xcassets */,
 				BF698419253AD17E008D967C /* panda.jpg */,
 				BF6983E7253ACFF9008D967C /* Info.plist */,
@@ -279,6 +282,7 @@
 				BF69842D253ADA67008D967C /* Images.swift in Sources */,
 				BF5FC14D253BE64F00AEE17B /* TabViews.swift in Sources */,
 				BF698438253ADDEE008D967C /* NavigationViews.swift in Sources */,
+				BF5FC152253BF2FB00AEE17B /* ButtonKnock.swift in Sources */,
 				BF5FC145253BDA1600AEE17B /* PickerViews.swift in Sources */,
 				BF6983DF253ACFF6008D967C /* SwiftUI_100_knocksApp.swift in Sources */,
 			);

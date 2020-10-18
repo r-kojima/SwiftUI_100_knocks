@@ -2,7 +2,7 @@
 //  NavigationViews.swift
 //  SwiftUI_100_knocks
 //
-//  Created by 小嶌諒 on 2020/10/17.
+//  Created by r-kojima on 2020/10/17.
 //
 
 import SwiftUI
