@@ -109,14 +109,10 @@
 		BF6983DD253ACFF6008D967C /* SwiftUI_100_knocks */ = {
 			isa = PBXGroup;
 			children = (
+				BFB8A4DA25407DAB007639BC /* Easy */,
+				BFB8A4DB25407DC8007639BC /* Nomal */,
+				BFB8A4DC25407DDC007639BC /* Hard */,
 				BF6983DE253ACFF6008D967C /* SwiftUI_100_knocksApp.swift */,
-				BF69842C253ADA67008D967C /* Images.swift */,
-				BF698437253ADDEE008D967C /* NavigationViews.swift */,
-				BF6983E0253ACFF6008D967C /* ContentView.swift */,
-				BF5FC144253BDA1600AEE17B /* PickerViews.swift */,
-				BF5FC14C253BE64F00AEE17B /* TabViews.swift */,
-				BF5FC151253BF2FB00AEE17B /* ButtonKnock.swift */,
-				BFB8A4D525406FE2007639BC /* AlertKnock.swift */,
 				BF6983E2253ACFF9008D967C /* Assets.xcassets */,
 				BF698419253AD17E008D967C /* panda.jpg */,
 				BF6983E7253ACFF9008D967C /* Info.plist */,
@@ -149,6 +145,34 @@
 				BF6983FD253ACFFA008D967C /* Info.plist */,
 			);
 			path = SwiftUI_100_knocksUITests;
+			sourceTree = "<group>";
+		};
+		BFB8A4DA25407DAB007639BC /* Easy */ = {
+			isa = PBXGroup;
+			children = (
+				BF69842C253ADA67008D967C /* Images.swift */,
+				BF698437253ADDEE008D967C /* NavigationViews.swift */,
+				BF6983E0253ACFF6008D967C /* ContentView.swift */,
+				BF5FC144253BDA1600AEE17B /* PickerViews.swift */,
+				BF5FC14C253BE64F00AEE17B /* TabViews.swift */,
+				BF5FC151253BF2FB00AEE17B /* ButtonKnock.swift */,
+				BFB8A4D525406FE2007639BC /* AlertKnock.swift */,
+			);
+			path = Easy;
+			sourceTree = "<group>";
+		};
+		BFB8A4DB25407DC8007639BC /* Nomal */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Nomal;
+			sourceTree = "<group>";
+		};
+		BFB8A4DC25407DDC007639BC /* Hard */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Hard;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
